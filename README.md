@@ -1,5 +1,5 @@
 ```json
-def about_me = {
+{
   "name" : "Dawid",
   "title" : "Tools developer",
   "knowledge_in" : ["Python", "Django", "Docker", "Starlette", "APIs"],
