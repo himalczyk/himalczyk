@@ -2,7 +2,7 @@
 {
   "name" : "Dawid",
   "title" : "Tools developer",
-  "knowledge_in" : ["Python", "Django", "Docker", "Starlette", "APIs"],
+  "knowledge_in" : ["Python", "Django", "Docker", "APIs"],
 }
 ```
 
