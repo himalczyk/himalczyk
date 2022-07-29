@@ -1,4 +1,10 @@
-### Hi there 👋
+'''
+def about_me = {
+  "name" : "Dawid",
+  "title" : "Tools developer",
+  "knowledge_in" : ["Python", "Django", "Docker", "Starlette", "APIs"],
+}
+'''
 
 <!--
 **himalczyk/himalczyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
