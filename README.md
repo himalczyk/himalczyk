@@ -2,7 +2,7 @@
 {
   "name" : "Dawid",
   "job_role" : "Tools developer",
-  "knowledge_in" : ["Python", "Django", "Docker", "APIs", "TailwindCSS"],
+  "knowledge_in" : ["Python", "Django", "Docker", "APIs"],
 }
 ```
 
