@@ -1,7 +1,7 @@
 ```json
 {
   "name" : "Dawid",
-  "job_role" : "Tools developer",
+  "job_role" : "Python developer",
   "knowledge_in" : ["Python", "Asyncio/Aiohttp", "RabbitMQ", "ElasticSearch", "Docker", "APIs"],
 }
 ```
