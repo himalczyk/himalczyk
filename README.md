@@ -6,7 +6,7 @@
     "technologies": ["Python", "Asyncio/Aiohttp", "Docker", "Django", "FastAPI"],
     "databases": ["Redis/KeyDB", "ElasticSearch", "PostgreSQL"],
     "logging": ["Sentry", "Kibana", "Grafana"],
-    "messaging": ["RabbitMQ", "Kafka"],
+    "messaging": ["RabbitMQ", "Kafka"]
   }
   "some_also_in": ["TailwindCSS"]
 }
