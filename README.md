@@ -8,6 +8,7 @@
     "logging": ["Sentry", "Kibana", "Grafana"],
     "messaging": ["RabbitMQ", "Kafka"],
   }
+  "some_also_in": ["TailwindCSS"]
 }
 ```
 
