@@ -2,11 +2,12 @@
 {
   "name" : "Dawid",
   "job_role" : "Python developer",
-  "experience_in" : {"technologies": ["Python", "Asyncio/Aiohttp", "Docker", "Django", "FastAPI"],
-                     "databases": ["Redis/KeyDB", "ElasticSearch", "PostgreSQL"],
-                     "messaging": ["RabbitMQ", "Kafka"],
-                     "logging": ["Sentry", "Kibana", "Grafana"],
-                    }
+  "experience_in" :{
+    "technologies": ["Python", "Asyncio/Aiohttp", "Docker", "Django", "FastAPI"],
+    "databases": ["Redis/KeyDB", "ElasticSearch", "PostgreSQL"],
+    "logging": ["Sentry", "Kibana", "Grafana"],
+    "messaging": ["RabbitMQ", "Kafka"],
+  }
 }
 ```
 
