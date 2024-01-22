@@ -2,7 +2,7 @@
 {
   "name" : "Dawid",
   "job_role" : "Python developer",
-  "knowledge_in" : ["Python", "Asyncio/Aiohttp", "RabbitMQ", "ElasticSearch", "Docker", "APIs"],
+  "experience_in" : ["Python", "Asyncio/Aiohttp", "RabbitMQ", "ElasticSearch", "Redis", "Django", "FastAPI" "Docker", "APIs"],
 }
 ```
 
