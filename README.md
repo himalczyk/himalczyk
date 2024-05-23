@@ -1,7 +1,7 @@
 ```json
 {
   "name" : "Dawid",
-  "job_role" : "Python developer",
+  "job_role" : "Backend Developer",
   "experience_in" :{
     "technologies": ["Python", "Asyncio/Aiohttp", "Docker", "Django", "FastAPI"],
     "databases": ["Redis/KeyDB", "ElasticSearch", "PostgreSQL"],
