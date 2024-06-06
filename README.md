@@ -3,7 +3,7 @@
   "name" : "Dawid",
   "job_role" : "Backend Developer",
   "experience_in" :{
-    "technologies": ["Python", "Asyncio/Aiohttp", "Docker", "Django", "FastAPI"],
+    "technologies": ["Python", "Docker", "Django", "FastAPI"],
     "databases": ["Redis/KeyDB", "ElasticSearch", "PostgreSQL"],
     "logging": ["Sentry", "Kibana", "Grafana"],
     "messaging": ["RabbitMQ", "Kafka"]
