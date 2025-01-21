@@ -9,6 +9,7 @@
     "messaging": ["RabbitMQ", "Kafka"]
   }
   "some_also_in": ["TailwindCSS", "HTML", "CSS"]
+  "learning": ["GO", "Java", "React"]
 }
 ```
 
